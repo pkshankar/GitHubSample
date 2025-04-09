@@ -11,5 +11,10 @@ public class LoginPage {
 
 		System.out.println("From Login Page - Footer");
 	}
+	
+	public void loginPageForgotPasswordTest() {
+
+		System.out.println("From Login Page - Forgot Password Test");
+	}
 
 }
