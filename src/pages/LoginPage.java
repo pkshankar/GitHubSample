@@ -6,5 +6,10 @@ public class LoginPage {
 
 		System.out.println("From Login Page - Title");
 	}
+	
+	public void getLoginPageFooter() {
+
+		System.out.println("From Login Page - Footer");
+	}
 
 }
