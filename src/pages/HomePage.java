@@ -6,5 +6,10 @@ public class HomePage {
 
 		System.out.println("From Home Page - Title");
 	}
+	
+	public void homePageTest() {
+
+		System.out.println("From Home Page - Home Page Test");
+	}
 
 }
