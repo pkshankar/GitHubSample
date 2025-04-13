@@ -2,6 +2,8 @@ package pages;
 
 public class LoginPage {
 	
+	int maxMarks = 100;
+	
 	public void getLoginPageTitle() {
 
 		System.out.println("From Login Page - Title");

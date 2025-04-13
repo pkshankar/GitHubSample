@@ -6,6 +6,8 @@ import org.testng.annotations.Test;
 
 public class LoginPageTest {
 
+	String name = "Shankar";
+
 //	LoginPage loginPage = new LoginPage();
 
 	@Test
@@ -15,13 +17,13 @@ public class LoginPageTest {
 
 		System.out.println("Login Page Test - Title");
 	}
-	
+
 	@Test
 	public void loginPageSuccessfulLogin() {
 
 		System.out.println("Login Page Test - Successful Login");
 	}
-	
+
 	@Test
 	public void anotherTest() {
 
