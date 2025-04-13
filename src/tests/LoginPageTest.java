@@ -21,5 +21,11 @@ public class LoginPageTest {
 
 		System.out.println("Login Page Test - Successful Login");
 	}
+	
+	@Test
+	public void anotherTest() {
+
+		System.out.println("Login Page Test - Another Test");
+	}
 
 }
