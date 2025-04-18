@@ -3,6 +3,10 @@ package pages;
 public class LoginPage {
 	
 	int maxMarks = 100;
+	String userName = "uName";
+	int sal = 2000;
+	String address = "add1";
+	
 	
 	public void getLoginPageTitle() {
 

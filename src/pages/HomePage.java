@@ -1,6 +1,8 @@
 package pages;
 
 public class HomePage {
+	
+	String name = "Shankar";
 
 	public void getHomePageTitle() {
 

@@ -7,6 +7,9 @@ import org.testng.annotations.Test;
 public class LoginPageTest {
 
 	String name = "Shankar";
+	String pw = "pwd";
+	int age = 35;
+	String city = "city1";
 
 //	LoginPage loginPage = new LoginPage();
 
